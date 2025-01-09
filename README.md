@@ -3,7 +3,7 @@
 A one click openledger script.
 
 ## Requirement
-- You need VPS Ubuntu 4vCPU RAM 8GB.
+- You need VPS Ubuntu 22.04 4vCPU RAM 8GB.
 - Register https://testnet.openledger.xyz/?referral_code=5qvg4fu2g4
 
 ## Installation
