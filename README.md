@@ -3,8 +3,8 @@
 A one click openledger script.
 
 ## Requirement
-You need VPS Ubuntu 4vCPU RAM 8GB.
-Register https://testnet.openledger.xyz/?referral_code=5qvg4fu2g4
+- You need VPS Ubuntu 4vCPU RAM 8GB.
+- Register https://testnet.openledger.xyz/?referral_code=5qvg4fu2g4
 
 ## Installation
 ```wget https://raw.githubusercontent.com/Aethereal-Collective/openledger-ubuntu/main/openledger.sh && chmod +x openledger.sh && sudo apt install dos2unix  && dos2unix openledger.sh && ./openledger.sh```
